@@ -1,4 +1,4 @@
-# REACT Series - Simple Pagination [DEMO]()
+# REACT Series - Simple Pagination [DEMO](https://jbx-react-pagination.netlify.app/)
 
 
 ## What ?
